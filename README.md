@@ -1,2 +1,3 @@
-# taro-2.0.3-demo
+# taro-3.0.2
+-demo
 demo
