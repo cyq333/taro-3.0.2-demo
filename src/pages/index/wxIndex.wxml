@@ -1,1 +1,3 @@
-<view>wxIndex</view>
+<view>
+    <wx-comp />
+</view>
